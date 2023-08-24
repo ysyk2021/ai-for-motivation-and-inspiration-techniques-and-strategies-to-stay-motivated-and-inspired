@@ -1,5 +1,3 @@
-Understanding the Role of AI in Motivation and Inspiration
-========================================================================================================================
 
 Artificial intelligence (AI) is playing an increasingly important role in improving motivation and inspiration. In this chapter, we will explore the role of AI in motivation and inspiration.
 

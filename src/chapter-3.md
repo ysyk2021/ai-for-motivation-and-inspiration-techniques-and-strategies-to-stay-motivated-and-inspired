@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Personalized Motivational Training
-================================================================
 
 Artificial intelligence (AI) can be used to implement personalized motivational training programs that are designed to improve motivation and inspiration. In this chapter, we will explore how AI can be used to personalize motivational training and support for individuals.
 

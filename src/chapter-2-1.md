@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-========================================================================================================================
 
 Artificial intelligence (AI) can be used to develop tools and technologies that can improve motivation and inspiration. In this chapter, we will provide an overview of the available tools and technologies for AI-driven motivation and inspiration.
 
