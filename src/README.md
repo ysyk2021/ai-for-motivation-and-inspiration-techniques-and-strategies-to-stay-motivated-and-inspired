@@ -14,3 +14,7 @@ In addition to addressing the practical applications of AI, this book will also 
 By the end of this book, readers should gain an appreciation for the ways in which AI can support motivation and inspiration, but also understand the limitations of AI and the importance of ensuring that it is used ethically and responsibly. Ultimately, this book will provide readers with a blueprint for how to leverage the power of AI to achieve greater levels of success in their personal and professional lives while maintaining a healthy balance between technology and humanity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
